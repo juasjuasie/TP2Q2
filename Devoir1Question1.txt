@@ -1,0 +1,12 @@
+IFT606-Sécurité et cryptographie
+	   Devoir 1 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Question 1 : 
+a) QFWJSHTSYWJJXYUWJAZJFQFHFKJYJWNF
+   LARENCONTREESTPRÉVUEÀLACAFÉTÉRIA
+
+b) RGNEIDVGPEWXTRAPHHXFJT
+   CRYPTOGRAPHIECLASSIQUE
+k1 = 15. 
+- Nous avons effectué une analyse fréquences. 
+- Doubles lettres.
