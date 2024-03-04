@@ -28,7 +28,7 @@ int main()
     string message;
     ifstream message_in(m_file);
     if (message_in.is_open()) {
-        message = string((std::istreambuf_iterator<char>(message_in)), std::istreambuf_iterator<char>())
+        message = string((std::istreambuf_iterator<char>(message_in)), std::istreambuf_iterator<char>());
         message_in.close();
     } else {
         cerr << "Impossible d'ouvrir le fichier message.txt" << endl;
